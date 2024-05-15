@@ -11,6 +11,9 @@
 }
 body{
     background: #fff;
+    background: url('laptop1.webp') no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 .container{
     display: flex;
